@@ -6,3 +6,4 @@ IT Concepts for Programmers: The purpose of this file is to show my process of l
 ## ChardeFlowerClass.pdf: This attachment is an example of Visualizing an OOP class
 ### Pythonoop.png: This screenshot shows an example of outputting code and OOP in Python
 #### Flower.py: This file has the written code demonstrated in the previous screenshot.
+### NetworkDesign.png: This is a visualization of a network using an Infrastructure Topology diagram.
