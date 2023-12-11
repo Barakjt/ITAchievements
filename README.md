@@ -8,3 +8,4 @@ IT Concepts for Programmers: The purpose of this file is to show my process of l
 #### Flower.py: This file has the written code demonstrated in the previous screenshot.
 ### NetworkDesign.png: This is a visualization of a network using an Infrastructure Topology diagram.
 ## SQLQuery.png: This file demonstrates the use of SQL and more specifically WHERE and ORDER BY statements. It shows a list of products that are over $50 in descending order.
+### MyHTML.png : This file demonstrates the practice of creating a website using HTML tags
